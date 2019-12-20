@@ -1,7 +1,8 @@
+require 'pry'
 def new_hash
-
+new_hash= {}
 end
-
+new_hash
 def actor
 
 end
